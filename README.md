@@ -1,6 +1,5 @@
 # calculadora-horas
 
-<!DOCTYPE html>
 <html>
 <head>
   <title>Calculadora de Horas de Operação</title>
